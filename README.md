@@ -1,4 +1,4 @@
 hi !
 
 
-![68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://user-images.githubusercontent.com/69719656/138139468-ca67e33e-b3bb-431a-ac74-7c452c282e8b.gif)
+![Yellow and Black Global Response Engineer LinkedIn Banner](https://user-images.githubusercontent.com/69719656/138142647-5911a5ca-6065-41e6-84b6-6b7890852be2.gif)
