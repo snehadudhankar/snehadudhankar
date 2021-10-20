@@ -16,11 +16,14 @@
 - 📫 How to reach me **https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/](https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/)
-
+- The following is a list of my projects👇
+  ☑PostWeb - http://postweb.epizy.com
+  ☑Mineral-Water-Company - https://snehadudhankar.github.io/Mineral-Water-Company-/index.html
+  ☑To Do List App -https://snehadudhankar.github.io/To-Do-List-App/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/snehadudhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehadudhankar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/" height="30" width="40" /></a>
+<a href="https://twitter.com/DudhankarSneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehadudhankar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/snehadudhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snehadudhankar" height="30" width="40" /></a>
 </p>
 
