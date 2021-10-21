@@ -21,6 +21,7 @@
   <li>☑PostWeb - http://postweb.epizy.com</li>
   <li>☑Mineral-Water-Company - https://snehadudhankar.github.io/Mineral-Water-Company-/index.html</li>
   <li>☑To Do List App -https://snehadudhankar.github.io/To-Do-List-App/ </li>
+  <li>☑Drag-and-drop-the-items-into-their-corresponding-spots -https://snehadudhankar.github.io/Drag-and-drop-the-items-into-their-corresponding-spots/</li>
  </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
