@@ -16,7 +16,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/](https://www.linkedin.com/in/sneha-dudhankar-35a0b316a/)
-- <h6>The following is a list of my projects👇</h6>
+- <h4>The following is a list of my projects👇</h4>
 - <ul>
   <li>☑PostWeb - http://postweb.epizy.com</li>
  <li> ☑Mineral-Water-Company - https://snehadudhankar.github.io/Mineral-Water-Company-/index.html</li>
